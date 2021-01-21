@@ -30,4 +30,22 @@ Exemplos práticos:
 * Camada 3: endereço lógico (endereço IP) e número do protocolo
 *  Camada 4: porta
 
+## TCP/IP
+
+### Representação Moderna
+
+| Modelo OSI |  TCP/IP |
+|----|----|
+| 7-Aplicação | Aplicação |
+| 6-Apresentação | Aplicação |
+| 5-Sessão | Aplicação |
+| 4-Transporte | Transporte |
+| 3-Rede | Rede |
+| 2-Link de dados | Link de dados |
+| 1-Fisica | Fisica |
+
+
+ 
+
+
 
