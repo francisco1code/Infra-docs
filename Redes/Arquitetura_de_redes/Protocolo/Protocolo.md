@@ -45,6 +45,25 @@ Exemplos práticos:
 | 1-Fisica | Fisica |
 
 
+* A camada “Link de dados” é também chamada “Enlace de dados” ou “Enlace”.
+* A camada “Rede” é também chamada “Internet”.
+
+## Etherner
+
+| Modelo OSI | Ethernet |
+|------|------|
+|2 -  Link de dados | LLC - IEEE 802.2 |
+| | MAC IEEE 802.3|
+|1 - Fisica| Fisica |
+
+LLC (Logical Link Control, IEEE 802.2): Controle do link lógico
+MAC (Medium Access Control, IEEE 802.3): Controle de acesso ao meio (CSMA/CD)
+
+## Wi-fi
+
+
+
+## 
  
 
 
