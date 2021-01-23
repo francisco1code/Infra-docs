@@ -61,9 +61,19 @@ MAC (Medium Access Control, IEEE 802.3): Controle de acesso ao meio (CSMA/CD)
 
 ## Wi-fi
 
+| Modelo OSI | Ethernet |
+|------|------|
+|2 -  Link de dados | LLC - IEEE 802.2 |
+| | MAC IEEE 802.11|
+|1 - Fisica| LCP |
+| | PMD|
 
+* LLC (Logical Link Control, IEEE 802.2): Controle do link lógico
+* MAC (Medium Access Control, IEEE 802.11): Controle de acesso ao meio (CSMA/CA)
+* PLCP (Physical Layer Convergence Procedure): Procedimento de convergência da camada
+física
+* PMD (Physical Medium Dependent): Dependente do meio físico
 
-## 
  
 
 
