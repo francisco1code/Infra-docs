@@ -74,6 +74,35 @@ MAC (Medium Access Control, IEEE 802.3): Controle de acesso ao meio (CSMA/CD)
 física
 * PMD (Physical Medium Dependent): Dependente do meio físico
 
+
+##  Endereçamento físico vs. lógico
+
+### Endereçamento físico
+
+* Endereço de hardware
+* Depende da arquitetura da rede
+* Camada 2
+* Usado por quadros
+* Só funciona na mesma rede
+* Não são roteáveis
+* Gerado por portas de rede
+* Equipamento: switch
+* Nas arquiteturas Ethernet e Wi-Fi: endereço MAC
+
+
+### Endereçamento lógico
+
+* Endereço de software
+* Depende da pilha de protocolos
+* Camada 3
+* Usada por datagramas IP
+* Atravessa redes diferentes
+* São roteáveis
+* Equipamento: roteador
+* Na pilha TCP/IP: datagrama IP
+
+
+
  
 
 
